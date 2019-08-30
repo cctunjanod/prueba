@@ -1,0 +1,31 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	color: unset;
+}
+
+body{
+	background: url("../fondo/fondoColorDif.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1{
+	color: white;
+	font-style: italic;
+	font-size: 40px;
+	position: relative;
+	top: 40px;
+}
+
+div{
+	position: relative;
+	top: 180px;
+	left: 20px;
+	width: 400px;
+ }
+
+label{	
+	font-weight: bold;
+	color: white;
+}
